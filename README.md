@@ -5,7 +5,7 @@
 <h2 align="center">Rezvan Farz Kanari</h2>
 <p align="center">
   Lead frontend and full-stack engineer · TypeScript, Angular, React, Vue, Node.js<br>
-  20 years building web platforms for banks, energy companies and a financial regulator
+  building web platforms since 2006 for banks, energy companies and a financial regulator
 </p>
 
 ---
