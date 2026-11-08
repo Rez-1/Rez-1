@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="avatar.svg" width="180" alt="Rez">
+</p>
+
+<h3 align="center">Hi, I'm Rez 👋</h3>
+<p align="center">Senior frontend & full-stack engineer · TypeScript, React, Node.js, Web Components</p>
