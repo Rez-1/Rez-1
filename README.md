@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="avatar.svg" width="180" alt="Rezvan Farz Kanari">
-</p>
-
 <h2 align="center">Rezvan Farz Kanari</h2>
 <p align="center">
   Lead frontend and full-stack engineer · TypeScript, Angular, React, Vue, Node.js<br>
